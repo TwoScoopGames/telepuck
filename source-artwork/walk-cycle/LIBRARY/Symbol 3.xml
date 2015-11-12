@@ -1,0 +1,71 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 3" itemID="56440b7d-00000511" lastModified="1447338642">
+  <timeline>
+    <DOMTimeline name="Symbol 3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#C4D0CD"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#79807F"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#626666"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#919B99"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#A0AAA8"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="2" edges="!1720 78|1720 158.5!1720 158.5[#6AA.B8 #AF.A 1608 190!1608 190[#63B.83 #BF.EC 1582 194"/>
+                    <Edge fillStyle1="4" edges="!1582 194|1581 194!1581 194[1533 200 1469 205!1469 205[1448 207 1427 209!1427 209[#531.EB #D7.EF 1220 221"/>
+                    <Edge fillStyle1="5" edges="!1220 221[#4C3.0B #DC.F4 1218 221!1218 221[1184 222 1150 223!1150 223[1135 224 1121 224!1121 224[1111 224 1101 225!1101 225[987 227 861 227!861 227[751 227 650 225!650 225[636 224 622 224!622 224[619 224 617 224!617 224[#237.6D #DF.07
+ 520.5 221"/>
+                    <Edge fillStyle1="4" edges="
+!520.5 221[#207.58 #DD.0E 518 221!518 221[385 216 272 207!272 207[262 206 252 205!252 205[172 198 117 191!117 191|116.5 191"/>
+                    <Edge fillStyle1="2" edges="
+!116.5 191[#6D.DE 189 103 189!103 189[9 174 0 156!0 156|0 74!0 74[#0.08 #4B.1 1 77"/>
+                    <Edge fillStyle1="1" edges="
+!1 77|1 71!1 71[14 42 251 21!251 21[504 0 860 0!860 0[1217 0 1468 21!1468 21[1705 42 1720 70!1720 70|1720 78"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!1580 115|1582 194"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!1720 78[1710 96 1607 111!1607 111[1594 113 1580 115"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="
+!1580 115[1532 121 1468 126!1468 126[1447 128 1426 130!1426 130[1328 137 1217 142"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!1217 142|1220 221"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!1517 90[1469 95 1400 100!1400 100[1179 116 866 116!866 116[553 116 331 100!331 100[252 94 202 88"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!202 88[110 76 110 61!110 61[110 38 331 22!331 22[553 6 866 6!866 6[1179 6 1400 22!1400 22[1622 38 1622 61!1622 61[1622 77 1517 90"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!202 88[249 82 318 77!318 77[434 69 575 65!575 65[591 64 607 64!607 64[722 61 853 61!853 61[1166 61 1387 77!1387 77[1466 83 1517 90"/>
+                    <Edge fillStyle0="5" fillStyle1="1" edges="
+!1217 142[1183 143 1149 144!1149 144[1134 145 1120 145!1120 145[1110 145 1100 146!1100 146[986 148 860 148!860 148[750 148 649 146!649 146[635 145 621 145!621 145[618 145 616 145!616 145[565 144 517 142"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!517 142|520.5 221"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="
+!517 142[384 137 271 128!271 128[261 127 251 126!251 126[171 119 116 112"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!116 112|116.5 191"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!116 112[109 110 102 110!102 110[8 95 1 77"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

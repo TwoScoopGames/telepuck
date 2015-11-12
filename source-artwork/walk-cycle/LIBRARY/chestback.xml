@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="chestback" itemID="5643ff6e-00000462" lastModified="1447296991">
+  <timeline>
+    <DOMTimeline name="chestback">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#A1AAA8"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#2F8370"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#B4BDBB"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#267060"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#848A89"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!469 83|502 117!502 117|500 194"/>
+                    <Edge fillStyle1="2" edges="!500 194[513 203 523 225!523 225[543 265 543 322!543 322[543 348 539 370"/>
+                    <Edge fillStyle1="4" edges="!539 370[534 397 523 419!523 419[507 453 484 458"/>
+                    <Edge fillStyle1="3" edges="!484 458|479 514!479 514|401 603!401 603|367 607!367 607|367 289.5"/>
+                    <Edge fillStyle1="1" edges="!367 289.5|367 105.5"/>
+                    <Edge fillStyle1="5" edges="!367 105.5|367 33!367 33|403 38!403 38|469 83"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!415 267[419 244 428 225!428 225[448 185 476 185!476 185[483 185 489 188!489 188[495 190 500 194"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="!484 458[480 459 476 459!476 459[474 459 473 459!473 459[447 457 428 419!428 419[409 379 409 322!409 322[409 314 410 307!410 307[410 305 410 303"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="!410 303|367 289.5"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="!410 303[411 284 415 267"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="!415 267[451 379 539 370"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="!469 83|367 105.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="souldercap" itemID="5644004f-00000474" lastModified="1447297449">
+  <timeline>
+    <DOMTimeline name="souldercap">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#99A2A0"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#AAAEAE"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#979F9D"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!93 8.5|93 6!93 6|88 6"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!88 6|65.5 44.5"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="!65.5 44.5|93 8.5"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="!65.5 44.5|9 140!9 140|93 137"/>
+                    <Edge fillStyle0="3" edges="!93 137|93 8.5"/>
+                    <Edge fillStyle0="1" edges="!-14 6|-24 6!-24 6|-24 160!-24 160|93 160!93 160|93 137"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!65.5 44.5|-10 142!-10 142|-14 6"/>
+                    <Edge fillStyle0="2" edges="!88 6|-14 6"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="shadow" itemID="5644076c-000004fd" lastModified="1447298924">
+  <timeline>
+    <DOMTimeline name="shadow">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#3C3939"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1502 18S2[1760 37 1760 64!1760 64[1760 91 1502 109!1502 109[1245 128 880 128!880 128[515 128 257 109!257 109[0 91 0 64!0 64[0 37 257 18!257 18[515 0 880 0!880 0[1245 0 1502 18"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

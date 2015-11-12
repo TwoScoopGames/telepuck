@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 2" itemID="56440366-00000496" lastModified="1447297894">
+  <timeline>
+    <DOMTimeline name="Symbol 2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#418775"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#67AB9A"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#317060"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#2A6355"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!167 125S3[137 105 147 69!147 69[149 60 153 52"/>
+                    <Edge fillStyle0="1" edges="!153 52S1|140 19"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="!140 19S3[134 29 130 40!130 40[103 121 170 162"/>
+                    <Edge fillStyle0="1" edges="!170 162S1|167 125"/>
+                    <Edge fillStyle1="3" edges="!3 264S2|6 8!6 8[56 -6 109 6!109 6[125 10 140 19"/>
+                    <Edge fillStyle1="2" edges="!153 52S2|167 125"/>
+                    <Edge fillStyle1="3" edges="!170 162S2[172 230 163 298!163 298[161 312 159 326"/>
+                    <Edge fillStyle1="4" edges="!159 326S2[132 422 33 402!33 402[19 396 4 395!4 395|24 390!24 390[17 389 10 386!10 386[7 385 5 384!5 384|4 385!4 385[3 385 3 384!3 384[0 381 0 379!0 379[0 373 3 367"/>
+                    <Edge fillStyle1="3" edges="!3 367S2|3 268"/>
+                    <Edge fillStyle1="4" edges="!3 268S2|3 264"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="!159 326S3|122 349!122 349[46 336 3 264!3 268[15 310 7 352!7 352[6 360 3 367"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

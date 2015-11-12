@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="finger" itemID="5643f338-00000307" lastModified="1447296436">
+  <timeline>
+    <DOMTimeline name="finger">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E3E8E7"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#EDF0EF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="2" edges="!135.5 0|194 0!194 0|216 24.5!216 24.5|216 97!216 97|195 112!195 112|116 112"/>
+                    <Edge fillStyle1="1" edges="!116 112|0 112!0 112|0 0!0 0|135.5 0"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!116 112|135.5 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

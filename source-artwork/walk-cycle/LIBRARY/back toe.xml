@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="back toe" itemID="5643e65c-000002b1" lastModified="1447293104">
+  <timeline>
+    <DOMTimeline name="back toe">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#359999"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#202020"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#2E2E2E"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#212121"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" edges="!167 197|251 210.5!251 210.5|241 47!241 47|130 77"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="!130 77|149.5 100"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="!149.5 100|199.5 159.5!199.5 159.5|163 157.5!163 157.5|167 197"/>
+                    <Edge fillStyle1="3" edges="!34.5 208.5|33 210!33 210|58.5 138.5"/>
+                    <Edge fillStyle1="4" edges="!58.5 138.5|78.5 91!78.5 91|130 77"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="!100 208|88.5 175.5!88.5 175.5|34 208!34 208|34.5 208.5"/>
+                    <Edge fillStyle0="2" edges="!34.5 208.5|45 219!45 219|102 208.5!102 208.5|100 208"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="!116.5 205.5|106.5 165!106.5 165|123.5 155!123.5 155|130.5 155.5!130.5 155.5|142.5 198.5"/>
+                    <Edge fillStyle0="3" edges="!142.5 198.5|154.5 195!154.5 195|167 197"/>
+                    <Edge fillStyle1="1" edges="!116.5 205.5|117 207!117 207|111 207"/>
+                    <Edge fillStyle1="3" edges="!111 207|100 208"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="!111 207|116.5 205.5"/>
+                    <Edge fillStyle0="2" edges="!116.5 205.5|142.5 198.5"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="!58.5 138.5|98 104!98 104|149.5 100"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

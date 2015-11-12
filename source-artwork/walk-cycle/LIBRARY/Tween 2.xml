@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 2" itemID="5643dc58-0000026b" symbolType="graphic" lastModified="1447287896">
+  <timeline>
+    <DOMTimeline name="Tween 2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-208.95" ty="-236.6"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3592 4261S2[3597 4264 3602 4268!3602 4268[3604 4270 3605 4274!3605 4274[3604 4277 3601 4279!3601 4279[3597 4282 3592 4284!3592 4284[3582 4282 3573 4280!3573 4280[3566 4278 3560 4275!3560 4275[3558 4275 3556 4274!3556 4274[3541 4271 3526
+ 4269!3526 4269[3526 4266 3527 4264!3527 4264[3529 4261 3532 4259!3532 4259[3544 4258 3556 4256!3556 4256[3558 4256 3560 4255!3560 4255[3566 4254 3573 4254!3573 4254[3582 4258 3592 4261"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="top-leg" selected="true" centerPoint3DX="10.4" centerPoint3DY="17.2">
+                  <matrix>
+                    <Matrix a="0.973541259765625" b="0.228500366210938" c="0.165542602539062" d="1.06602478027344" tx="-11.8" ty="10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.6" y="1.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
